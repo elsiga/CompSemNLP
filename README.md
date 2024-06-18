@@ -1,5 +1,5 @@
 # @Shehzaad: 
-### Code to have a look at is the file DPO_NLP_PROJ.ipynb to check if the model can properly get finetuned like we did it or if we made a mistake in our implementation.
+### Code to have a look at is the file DPO_NLP_PROJ.ipynb to check if the model can properly get finetuned like we did it or if we made a mistake in our implementation. especially in regard to reward function, that was a struggle.
 # How to replicate our results:
 ## First Run DPO_NLP_PROJ.ipynb 
 this will run DPO on a BART-base model and generate a finetuned version of BART (you can insert a different LLM if your GPU can handle it.)
